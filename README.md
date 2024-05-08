@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Leo-bootstrap" title="Bootstrap" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Leo-css" title="CSS" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Leo-Android" title="Android" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+  <img align="center" alt="Leo-unity" title="Unity" width="40" heigth="30" src="https://cyberhomolog.fisk.com.br:172/cyberfisk30/images/unity.png" />
  </div>
  <br>
  <img align="center" alt="" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
