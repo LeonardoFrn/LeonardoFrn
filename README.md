@@ -28,8 +28,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Leo-css" title="CSS" width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  </div>
  <br>
- <p align="center">💻 Visitantes no Perfil </p>
- <img align="relative" src="https://profile-counter.glitch.me/LeonardoFrn/count.svg" > 
  <img align="center" alt="" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 </div>
 <br/>
